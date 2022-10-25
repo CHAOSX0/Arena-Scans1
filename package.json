@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cookies-next": "^2.1.1",
+    "firebase": "^9.10.0",
+    "firebase-admin": "^11.0.1",
+    "universal-cookie": "^4.0.4"
+  }
+}
